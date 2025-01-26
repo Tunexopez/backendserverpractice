@@ -1,3 +1,4 @@
 node_modules/
 #env
 #.env.local
+git remote set-url origin https://github.com/Tunexopez/backendserverpractice.git
